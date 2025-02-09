@@ -1,3 +1,7 @@
+<head>
+        <meta name="theme-color" contents=#000000>
+</head>
+
 # hi tiffnanie :) [look here](/tiffnanie/tiffnanie)
 
 for now, will just update manual index here: \
