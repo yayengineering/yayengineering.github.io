@@ -16,8 +16,7 @@ this needs to be updated though
 
 \
         <div class="container">
-            <h1>  Current Color: <span class="current-color"> rgb(255,255,255)</span></h1>
-            <button> Change Background Color</button>
+            <h1>  Current Color: <span class="current-color"></span></h1>
         </div>
 
 
