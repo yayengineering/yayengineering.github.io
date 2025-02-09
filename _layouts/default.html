@@ -47,6 +47,11 @@
         <!-- <div id="footer"> -->
         <footer>
           <!-- <p> current date & time: </p>  -->
+          <div style="display: flex; justify-content: space-between;">
+            <p>Current date & time: </p>
+            <p id="demo" ></p>
+          </div>
+          
           <p id="datetime">  </p> 
             <script>
               // Get current date and time
@@ -56,7 +61,7 @@
                                                           hour: "numeric",    
                                                           minute: "numeric",  
                                                           second: "numeric", 
-                                                          timeZoneName: "long",
+                                                          timeZoneName: "short",
                                                           weekday: "long",
                                                           year: "numeric",
                                                           month: "long",
