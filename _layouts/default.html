@@ -50,15 +50,15 @@
         <!-- <header></header> -->
         <!-- <main></main> -->
         <footer>
-            <p id="datetime"></p>
+            <p id="datetime-local"></p>
 
               <script>
                 // Get current date and time
                 var now = new Date();
                 var datetime = now.toLocaleString();
-
+        
                 // Insert date and time into HTML
-                document.getElementById("datetime").innerHTML = datetime;
+                <p> "current date & time: " document.getElementById("datetime-local").innerHTML = datetime <p>; 
               </script>
         </footer>
     </div>
