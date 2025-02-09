@@ -7,7 +7,7 @@
   <body>
     <script>
       (async () => {
-        const response = await fetch('https://api.github.com/repos/:user/:repo/contents/');
+        const response = await fetch('https://api.github.com/repos/user/yayengineering/contents/');
         const data = await response.json();
         let htmlString = '<ul>';
         
