@@ -1,16 +1,16 @@
 # hi tiffnanie :) [look here](/tiffnanie/tiffnanie)
 
 for now, will just update manual index here:
-[Page 1](/tiffnanie/tiffnanie)
-[Page 2](/calculator)
-[Page 3]
-[Page 4]
-[Page 5]
-[Page 6]
-[Page 7]
-[Page 8]
-[Page 9]
-[Page 10]
+[Page 1](/tiffnanie/tiffnanie) <br>
+[Page 2](/calculator) <br>
+[Page 3] <br>
+[Page 4] <br>
+[Page 5] <br>
+[Page 6] <br>
+[Page 7] <br>
+[Page 8] <br>
+[Page 9] <br>
+[Page 10] <br>
 this needs to be updated though 
 <br>
 <br>
