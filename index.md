@@ -1,24 +1,29 @@
 # hi tiffnanie :) [look here](/tiffnanie/tiffnanie)
 
-for now, will just update manual index here: <br>
-[Page 1](/tiffnanie/tiffnanie) <br> <br>
-[Page 2](/calculator) <br> <br>
-[Page 3] <br> <br>
-[Page 4] <br> <br>
-[Page 5] <br> <br>
-[Page 6] <br> <br>
-[Page 7] <br> <br>
-[Page 8] <br> <br>
-[Page 9] <br> <br>
-[Page 10] <br> <br>
-this needs to be updated though 
+for now, will just update manual index here: \
+[Page 1](/tiffnanie/tiffnanie) \
+[Page 2](/calculator) \
+[Page 3] \
+[Page 4] \
+[Page 5] \
+[Page 6] \
+[Page 7] \
+[Page 8] \
+[Page 9] \
+[Page 10] \
+\
+this needs to be updated though
 
-<br>
-<br>
-<br>
-<br>
+\
+        <div class="container">
+            <h1>  Current Color: <span class="current-color"> rgb(255,255,255)</span></h1>
+            <button> Change Background Color</button>
+        </div>
+
+
 
 <!-- following taken from: https://github.com/pages-themes/primer/blob/master/index.md?plain=1 -->
+\
 [code origin](https://github.com/pages-themes/primer/blob/master/index.md?plain=1)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
