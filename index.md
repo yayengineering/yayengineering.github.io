@@ -1,9 +1,7 @@
 # hi tiffnanie :) [look here](/tiffnanie/tiffnanie)
 
 <!-- following taken from: https://github.com/pages-themes/primer/blob/master/index.md?plain=1 -->
----
-layout: default
----
+[code origin](https://github.com/pages-themes/primer/blob/master/index.md?plain=1)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
