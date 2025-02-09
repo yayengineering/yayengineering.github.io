@@ -44,14 +44,9 @@
 
         {{ content }}
 
-      </section>
-
-    <div class="container">
-        <!-- <header></header> -->
-        <!-- <main></main> -->
-        <footer>
-          <p> current date & time: <id="datetime-local"> </p>
-
+        <div id="footer">
+          <p> current date & time:  </p>
+          <id="datetime-local">
               <script>
                 // Get current date and time
                 var now = new Date();
@@ -59,9 +54,9 @@
         
                 // Insert date and time into HTML
                 document.getElementById("datetime-local").innerHTML = datetime; 
-              </script>
-        </footer>
-    </div>
+              </script>        
+        </div>
+      </section>
 
 
     </div>
