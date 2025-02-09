@@ -2,10 +2,7 @@
 layout: page
 ---
 
-\
-\
-\
-\
+<br>
 <p>She is literally so pretty!!! look at Her!!</p>
 
 
