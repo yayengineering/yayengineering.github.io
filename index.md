@@ -1,6 +1,6 @@
 # hi tiffnanie :) [look here](/tiffnanie/tiffnanie)
 
-for now, will just update manual index here:
+for now, will just update manual index here: <br>
 [Page 1](/tiffnanie/tiffnanie) <br>
 [Page 2](/calculator) <br>
 [Page 3] <br>
@@ -12,6 +12,8 @@ for now, will just update manual index here:
 [Page 9] <br>
 [Page 10] <br>
 this needs to be updated though 
+
+<br>
 <br>
 <br>
 <br>
