@@ -18,15 +18,15 @@ for now, will just update manual index here: \
 \
 this needs to be updated though
 
-site.pages
 
  <hr>
-## TO DO LIST
-### change background color to black
-### implement favicon?
-### create index of pages
-### can i make a dropdown to make site navigation easier?
- 
+ \
+## TO DO LIST \ 
+### change background color to black \
+### implement favicon? \
+### create index of pages \ 
+### can i make a dropdown to make site navigation easier? \
+ \
  <hr>
 
 
