@@ -20,13 +20,16 @@ this needs to be updated though
 
 
  <hr>
- \
+ 
+\
 ## TO DO LIST \ 
-### change background color to black \
-### implement favicon? \
-### create index of pages \ 
-### can i make a dropdown to make site navigation easier? \
- \
+> change background color to black 
+> implement favicon? 
+> create index of pages 
+> can i make a dropdown to make site navigation easier? 
+> can i have spreadsheet stuff show? maybe look at other online calculators to see how they set it up
+
+
  <hr>
 
 
