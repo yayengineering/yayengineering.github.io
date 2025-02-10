@@ -18,7 +18,10 @@ for now, will just update manual index here: \
 \
 this needs to be updated though
 
+site.pages
+
  <hr>
+ 
 
 
 
