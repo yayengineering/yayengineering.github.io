@@ -2,13 +2,13 @@
         <meta name="theme-color" contents=#000000>
 </head>
 
-# hi tiffnanie :) [look here](/tiffnanie/tiffnanie)
+
 
 for now, will just update manual index here: \
-[Page 1](/tiffnanie/tiffnanie) \
-[Page 2](/calculator) \
-[Page 3] \
-[Page 4] \
+[Page 1: Hi Tiffnanie :)](/tiffnanie/tiffnanie) \
+[Page 2: Calculator?](/calculator) \
+[Page 3: Engineering](/engineering) \
+[Page 4: Web Development Links](/engineering/webDevlopment) \
 [Page 5] \
 [Page 6] \
 [Page 7] \
