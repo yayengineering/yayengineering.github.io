@@ -9,7 +9,7 @@ for now, will just update manual index here: \
 [Page 2: Calculator?](/calculator) \
 [Page 3: Engineering](/engineering) \
 [Page 4: Web Development Links](/engineering/webDevlopment) \
-[Page 5] \
+[Page 5: Change Background](/engineering/ChangingBackground) \
 [Page 6] \
 [Page 7] \
 [Page 8] \
