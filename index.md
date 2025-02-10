@@ -18,10 +18,7 @@ for now, will just update manual index here: \
 \
 this needs to be updated though
 
-\
-        <div class="container">
-            <h1>  Current Color: <span class="current-color"></span></h1>
-        </div>
+ <hr>
 
 
 
