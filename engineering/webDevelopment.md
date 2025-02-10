@@ -6,7 +6,7 @@ layout: page
 <h1>Links to helpful websites</h1>
 
 
-![Link 1] <br>
+![W3 Schools - favorite reference so far](https://www.w3schools.com/html/default.asp) <br>
 ![Link 2] <br>
 ![Link 3] <br>
 ![Link 4] <br>
