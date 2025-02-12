@@ -30,9 +30,10 @@
           </ul>
         </nav>
       </div><!-- end header -->
-
+<!---
     <div class="wrapper">
-
+        {{ content }} --->
+      <!--- begin copied section --->
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -42,8 +43,18 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
+    <main class="page-content sidebar-container" aria-label="Content">
+    {% if page.sidebar %}
+      <div class="sidebar">
+          <b>Outline</b>
+          {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=page.sidebar %}
+      </div>
+    {% endif %}
+      <div class="wrapper">
         {{ content }}
-
+      </div>
+    </main>
+<!--- end copied section --->
       </section>
        
         <footer>
