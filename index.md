@@ -2,7 +2,7 @@
         <meta name="theme-color" contents=#000000>
 </head>
 
-
+* * *
 
 for now, will just update manual index here: \
 [Page 1: Hi Tiffnanie :)](/tiffnanie/tiffnanie) \
@@ -10,28 +10,31 @@ for now, will just update manual index here: \
 [Page 3: Engineering](/engineering) \
 [Page 4: Web Development Links](/engineering/webDevelopment) \
 [Page 5: Change Background](/engineering/ChangeBackground) \
-[Page 6] \
+[Page 6: l ve n tes](https://www.noahmadethis.website/skills-github-pages/) \
 [Page 7] \
 [Page 8] \
 [Page 9] \
 [Page 10] \
 \
-this needs to be updated though
+this needs to be updated to just be like..... a live index?? idk the dropdown cant be that hard right???? right?????
 
 
- <hr>
+* * *
  
-\
-## TO DO LIST \ 
-> change background color to black 
-> implement favicon? 
-> create index of pages 
-> can i make a dropdown to make site navigation easier? 
-> can i have spreadsheet stuff show? maybe look at other online calculators to see how they set it up
+
+## TO DO LIST  
+> change background color to black <br>
+> implement favicon? <br>
+> create index of pages <br>
+> can i make a dropdown to make site navigation easier? <br>
+> can i have spreadsheet stuff show? maybe look at other online calculators to see how they set it up <br>
+> or start simplier... like can i just put a sheet in a browser?
+> could i just have a live timer?
 
 
- <hr>
-
+* * *
+* * *
+* * *
 
 <!-- following taken from: https://github.com/pages-themes/primer/blob/master/index.md?plain=1 -->
 \
