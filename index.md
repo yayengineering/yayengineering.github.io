@@ -1,20 +1,3 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Tabler Demo</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@1.1.1/dist/css/tabler.min.css" />
-  </head>
-  <body>
-    <h1>Hello, Tabler!</h1>
-    <script src="https://cdn.jsdelivr.net/npm/@tabler/core@1.1.1/dist/js/tabler.min.js"></script>
-  </body>
-</html>
-
-
-
-<!--
 
 <head>
         <meta name="theme-color" contents=#000000>
@@ -54,10 +37,9 @@ this needs to be updated to just be like..... a live index?? idk the dropdown ca
 * * *
 * * *
 
--->
 
 <!-- following taken from: https://github.com/pages-themes/primer/blob/master/index.md?plain=1 -->
-<!--
+
 \
 [code origin](https://github.com/pages-themes/primer/blob/master/index.md?plain=1)
 
